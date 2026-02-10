@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "base_track": "Runaway World",
+  "base_artist": "fhána",
+  "createdAt": "2026-02-10T11:28:12.556972Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Runaway World",
+      "artist": "Pretty Maids",
+      "has_synced": false,
+      "path": "select/01_Runaway_World_Pretty_Maids.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Runaway World",
+      "artist": "Hey Geronimo",
+      "has_synced": false,
+      "path": "select/02_Runaway_World_Hey_Geronimo.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Runaway World",
+      "artist": "Making April",
+      "has_synced": false,
+      "path": "select/03_Runaway_World_Making_April.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Runaway World",
+      "artist": "fhána",
+      "has_synced": true,
+      "path": "select/04_Runaway_World_fhána.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Runaway World (Acoustic)",
+      "artist": "Making April",
+      "has_synced": false,
+      "path": "select/05_Runaway_World_(Acoustic)_Making_April.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Runaway World",
+      "artist": "D.O.A.",
+      "has_synced": false,
+      "path": "select/06_Runaway_World_D.O.A..txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Runaway World [ORT]",
+      "artist": "fhána",
+      "has_synced": true,
+      "path": "select/07_Runaway_World_[ORT]_fhána.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Runaway World (ORT)",
+      "artist": "fhána",
+      "has_synced": true,
+      "path": "select/08_Runaway_World_(ORT)_fhána.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Runaway World",
+      "artist": "fhana",
+      "has_synced": false,
+      "path": "select/pl_01_Runaway_World_fhana.txt"
+    }
+  ]
+}
